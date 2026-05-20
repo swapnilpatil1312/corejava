@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module selflearning6 {
-}
